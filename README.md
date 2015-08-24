@@ -1,6 +1,6 @@
 # ngBaasbox
-
 An angular wrapper for Baasbox. Support for version 0.9.0 so far.
+The goal of this fork is to replicate exaclty the original BaasBox Sdk.
 
 Notes: 
 1. The documentation is incomplete. 
